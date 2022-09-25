@@ -1,0 +1,15 @@
+https://docs.google.com/document/d/1yeuR9vSrjiAoTCkGgIYZLAYTGfiYIXBkX1QEl-DqO70/edit?usp=sharing
+https://drive.google.com/file/d/1ziRyI9UsWEMg9bEVn812Jo00ZSSraaVF/view
+
+
+https://docs.google.com/document/d/1zTFCu48GFjimHlldJ_xyI-AwNMH0X8vyoEhWgGPerbU/edit?usp=sharing
+
+https://docs.google.com/document/d/1Hs6soGdSX_0YBGlvSYVhb7RPF-7Ciyy9qkL4tW5wVd4/edit?usp=sharing
+
+
+let sum = 0
+let eachInputedNumber = n
+multiply each inputed number by itself
+add all squared inputed numbers
+sum = 0 + sum of all inputed number
+print sum
