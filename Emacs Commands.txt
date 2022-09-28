@@ -1,0 +1,15 @@
+Emacs Commands
+
+Open a file in emacs => C-x C-f
+
+Save a file in emacs => C-x C-s
+
+Cut a file in emacs => C-k
+
+Paste a file in emacs => C-y
+
+Search a file in emacs => C-s
+
+Undoing a file in emacs => C-x u
+
+Quitting a file in emacs => C-x C-c
