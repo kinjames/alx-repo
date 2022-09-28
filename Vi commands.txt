@@ -1,0 +1,15 @@
+Vi Comands
+
+Insert a file in Vi => i
+
+Paste a file in Vi => p
+
+Cut a file in Vi => dd
+
+Undo a file in Vi => u
+
+Exit a file in Vi => :q!
+
+Insert begining of a line in Vi => 0
+
+Insert at the ending of a line in Vi => $
