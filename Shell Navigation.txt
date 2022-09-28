@@ -1,0 +1,21 @@
+Shell Navigation and Commands
+
+
+Change directory => cd
+
+Create a file => touch <file name>
+
+Open file => cat <file name>
+
+Make a directory => mkdir <directory name>
+
+Remove a directory => rmdir <directory>
+
+Move back => cd ..
+
+Check present working directory => pwd
+
+Display content of a file => less <file name>
+
+Copy a file => cp <file name>
+
