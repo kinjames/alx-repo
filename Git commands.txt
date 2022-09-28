@@ -1,0 +1,13 @@
+Git Command
+
+Add files to be pushed  => git add .
+
+Add a commit message => git commit -m <message>
+
+Push files to directory  => git push
+
+create a new branch  => git branch <branch name>
+
+To switch branch  => git checkout <branch name>
+
+To check available branches => git branch -a
