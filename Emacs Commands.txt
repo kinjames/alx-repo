@@ -13,3 +13,18 @@ Search a file in emacs => C-s
 Undoing a file in emacs => C-x u
 
 Quitting a file in emacs => C-x C-c
+
+
+echo C-x C-x > opening
+
+echo C-x C-s > saving
+
+echo C-k > cutting
+
+echo C-y > pasting
+
+echo C-s > searching
+
+echo C-x u > undoing
+
+echo C-x C-c > quitting
